@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="86"/>
         <source>Net name</source>
-        <translation>Linea</translation>
+        <translation>Nombre del Conector</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="86"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="93"/>
         <source>Side A</source>
-        <translation></translation>
+        <translation>Lado A</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="95"/>
         <source>Side B</source>
-        <translation></translation>
+        <translation>Lado B</translation>
     </message>
 </context>
 <context>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="74"/>
         <source>How we search for schematics</source>
-        <translation>Como buscalos los esquematicos</translation>
+        <translation>Como buscalos los esquemáticos</translation>
     </message>
     <message>
         <location filename="../src/app/overlaysettings.cpp" line="76"/>
@@ -86,13 +86,13 @@
         <location filename="../src/app/maintoolbar.cpp" line="371"/>
         <location filename="../src/app/maintoolbar.cpp" line="376"/>
         <source>Hide Components names</source>
-        <translation>Ocultar los nombres de los componentes</translation>
+        <translation>Ocultar nombres de los componentes</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="279"/>
         <location filename="../src/app/maintoolbar.cpp" line="378"/>
         <source>Show Components names</source>
-        <translation>Mostrar los nombres de los componentes</translation>
+        <translation>Mostrar nombres de los componentes</translation>
     </message>
     <message>
         <location filename="../src/app/maintoolbar.cpp" line="289"/>
